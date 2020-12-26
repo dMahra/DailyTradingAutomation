@@ -1,2 +1,8 @@
-# Stock System Automation
+# stockAutomation
  
+ 
+# Download Signals
+
+# Generate Trade Files
+
+# Submit Trades
