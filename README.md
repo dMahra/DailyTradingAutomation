@@ -1,2 +1,2 @@
-# stockAutomation
+# Stock System Automation
  
