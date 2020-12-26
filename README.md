@@ -1,4 +1,4 @@
-# stockAutomation
+# SystemStockAutomation
  
  
 # Download Signals
