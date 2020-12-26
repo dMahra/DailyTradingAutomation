@@ -19,7 +19,7 @@ except OSError as e:
 webbrowser.open("http://beta.kosha.vistalytics.com/systemWatchlistTiming?type=vistalytics_balanced&username=chanchal.mahra@gmail.com", new=1)
 pyautogui.moveTo(1599,1137,10)
 pyautogui.click()
-pyautogui.write('1224Bryan!!')
+pyautogui.write('passwordshere')
 pyautogui.moveTo(1927,1316,1)
 pyautogui.click()
 
